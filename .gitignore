@@ -1,0 +1,14 @@
+Images_Gen/
+
+# pre_trained
+pre_trained/
+
+# dataset
+datasets/
+
+# pycache
+__pycache__
+
+# images
+*.jpg
+*.PNG
